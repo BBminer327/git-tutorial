@@ -1,6 +1,6 @@
 <?php 
-    echo "Main menu"; 
-    echo "location";
-    echo "food";
-    echo "price";
+    echo "หน้าเมนู"; 
+    echo "ที่อยู่";
+    echo "อาหาร";
+    echo "ราคา";
     ?>
