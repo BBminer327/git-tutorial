@@ -1,8 +1,6 @@
-<?php echo "Main menu"; 
-    echo <"br">;
-    echo <"br">;
-    echo <"br">;
-    echo <"br">;
-    echo <"br">;
-    echo <"br">;
+<?php 
+    echo "Main menu"; 
+    echo "location";
+    echo "food";
+    echo "price";
     ?>
